@@ -1,0 +1,64 @@
+
+# <!-- mtoc-start -->
+# 
+# * [这个字典用于管理个人/私人信息，以便在共享/分享rime配置时，可以方便的将个人信息进行隔离](#这个字典用于管理个人私人信息以便在共享分享rime配置时可以方便的将个人信息进行隔离)
+# * [常用联系信息](#常用联系信息)
+# * [常用办公信息](#常用办公信息)
+# * [常用链接](#常用链接)
+# * [keymap](#keymap)
+# * [yuoek](#yuoek)
+# * [alias](#alias)
+# * [re](#re)
+# * [todo](#todo)
+# 
+# <!-- mtoc-end -->
+
+# 这个字典用于管理个人/私人信息，以便在共享/分享rime配置时，可以方便的将个人信息进行隔离
+# 常用联系信息
+123456789AB	李四
+123456789AC	王五
+湖南省长春市快乐区开心社区2栋305室	家里
+
+# 常用办公信息
+san.zhang@aibaba.com	办公邮箱
+浙江省杭州市阿里马马集团2号快递收发室	办公收件
+
+# 常用链接
+https://www.myblogs.com	私人博客
+
+# keymap
+豆包 	https://www.myblogs.com
+W+a	点击豆包消息
+W+f	打开图片和发消息	
+W+z	选第一张图片
+W+d	退出豆包通话。
+W+g	打开豆包通话
+W+v	使用豆包语音输入法
+W+r	导入rime配置文件
+W-j	豆包向下滑
+W-m	豆包向上滑
+W-<	豆包小窗口
+W->	关闭豆包小窗口
+W+1	打开termux
+W+2 开浏览器
+W+3	打开VNC
+W+4	打开豆包
+W+5 打开KeyMap
+
+# yuoek
+yu&nbspoek	遇光见影，遇你见爱！
+yu	遇光见影
+
+# alias
+rime	打开rime&nbspconfig
+rimezip	压缩rime&nbspconfig 
+symble	打开symble.dict.yaml 
+dict	打开phraseExt&nbsppersonal.txt 
+personal	打开phraseComment&nbsppersonal.txt 
+help	打开help.lua
+
+# re
+%s/^\n//g	清除空行
+%s/^[A-Za-z]*[0-9].*//g	删除含有相应字母数字行
+
+# todo

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="candidates_window_padding" value="2" />
+    <string name="swipe_symbol_behavior">Down</string>
+    <int name="candidates_item_padding_horizontal" value="0" />
+    <int name="keyboard_height_percent" value="24" />
+    <int name="pid" value="10076" />
+    <boolean name="first_run" value="false" />
+    <boolean name="toolbar_num_row_on_password" value="true" />
+    <string name="punctuation_position">Bottom</string>
+    <int name="expanded_candidate_grid_span_count_portrait" value="12" />
+    <boolean name="editor_info_inspector" value="false" />
+    <int name="candidates_item_padding_vertical" value="0" />
+    <boolean name="key_border" value="false" />
+    <boolean name="inline_suggestions" value="true" />
+    <boolean name="clipboard_return_after_paste" value="true" />
+    <string name="expanded_candidate_style">Grid</string>
+    <string name="space_long_press_behavior">None</string>
+    <boolean name="space_swipe_move_cursor" value="true" />
+    <boolean name="reset_keyboard_on_focus_change" value="true" />
+    <int name="expanded_candidate_grid_span_count_landscape" value="12" />
+    <string name="haptic_on_keypress">FollowingSystem</string>
+    <boolean name="clipboard_mask_sensitive" value="true" />
+    <string name="last_symbol_layout">Symbol</string>
+    <string name="candidates_window_orientation">Vertical</string>
+    <string name="show_candidates_window">SystemDefault</string>
+    <boolean name="popup_on_key_press" value="true" />
+    <boolean name="hide_key_config" value="false" />
+    <int name="button_sound_volume" value="5" />
+    <int name="candidates_window_font_size" value="17" />
+    <int name="candidates_window_min_width" value="0" />
+    <boolean name="keep_keyboard_letters_uppercase" value="true" />
+    <boolean name="show_voice_input_button" value="true" />
+    <boolean name="expand_keypress_area" value="false" />
+    <int name="keyboard_height_percent_landscape" value="24" />
+    <boolean name="ignore_system_window_insets" value="false" />
+    <string name="sound_on_keypress">FollowingSystem</string>
+    <boolean name="haptic_on_keyup" value="true" />
+    <string name="lang_switch_key_behavior">Enumerate</string>
+    <boolean name="haptic_on_repeat" value="true" />
+    <boolean name="show_lang_switch_key" value="true" />
+    <boolean name="follow_system_dark_mode" value="true" />
+    <boolean name="verbose_log" value="false" />
+    <boolean name="key_ripple_effect" value="false" />
+    <boolean name="disable_animation" value="false" />
+    <boolean name="need_notifications" value="true" />
+    <boolean name="vivo_keypress_workaround" value="true" />
+    <boolean name="expand_toolbar_by_default" value="true" />
+    <boolean name="clipboard_suggestion" value="true" />
+    <boolean name="ignore_system_cursor" value="false" />
+    <boolean name="clipboard_enable" value="true" />
+    <int name="clipboard_limit" value="1000" />
+    <string name="horizontal_candidate_style">AutoFillWidth</string>
+</map>

@@ -1,0 +1,5 @@
+
+# 数据库文件，避免提交
+databases/
+*.db
+*.clibdb
