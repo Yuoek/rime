@@ -118,11 +118,25 @@ punctuator:
                  https://github.com/Yuoek,
                  https://github.com/Yuoek/Yuoek.git,
                  https://github.com/Yuoek/dotfiles.git,
-                 https://github.com/Yuoek/hugo.git
+                 https://github.com/Yuoek/hugo.git,
+                 https://github.com/Yuoek/cs.git,
+                 https://github.com/Yuoek/film.git,
+                 https://github.com/Yuoek/rime.git
             ]
 # gi
     '/gi': [ git clone,
-              git clone https://gh.llkk.cc/
+              git clone https://gh.llkk.cc/,
+              git reset HEAD,
+              git init,
+              git add .,
+              git commit -m "Yuoek",
+              git remote add origin git@github:Yuoek/Yuoek.git,
+              git branch -M main,
+              git push -u origin,
+              git checkout main,
+              git checkout -b feature,
+              git status
+
             ]
 # km
     '/km': [ W+1, W+2, W+3, W+4, W+5, W+6, W+7, W+8, W+9, W+a, W-b, W+c, W+d, W+f, W+g, W-j, W+r, W+v, W-m, W+x, W+z,  w-n, W-b, W-<, W->, W+0 ]

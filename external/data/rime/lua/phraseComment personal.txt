@@ -50,12 +50,12 @@ yu&nbspoek	遇光见影，遇你见爱！
 yu	遇光见影
 
 # alias
-rime	打开rime&nbspconfig
-rimezip	压缩rime&nbspconfig 
-symble	打开symble.dict.yaml 
-dict	打开phraseExt&nbsppersonal.txt 
-personal	打开phraseComment&nbsppersonal.txt 
-help	打开help.lua
+rime	nvim&bnsp~/Yuoek/db/rime/
+rimezip	cd&nbsp~/Yuoek/db/rime&nbsp&&&nbspzip&nbsp-r&bnsprime.zip&nbsp*&nbspmv&nbsp~/Yu/db/zip 
+symble	nvim&nbsp~/Yuoek/db/rime/external/data/rime/symble.dict.yaml 
+dict	nvim&nbsp~/Yuoek/db/rime/external/data/rime/lua/phraseExt&nbsppersonal.txt 
+personal	nvim&nbsp~/Yuoek/db/rime/external/data/rime/lua/phraseComment&nbsppersonal.txt 
+help	nvim&nbsp~/Yuoek/db/rime/external/data/rime/lua/help.lua
 
 # re
 %s/^\n//g	清除空行
