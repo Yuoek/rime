@@ -221,7 +221,8 @@ punctuator:
             ]
 
 # ph
-    '/ph': [  量子力学, 麦克斯韦方程组, 诺特定理, 规范场
+    '/ph': [  量子力学, 麦克斯韦方程组, 诺特定理, 规范场,
+              "$$ <br>\nabla\times\vec{A} = <br>\begin{vmatrix}<br>\boldsymbol{i} & \boldsymbol{j} & \boldsymbol{k} \\ <br>\dfrac{\partial}{\partial x} & \dfrac{\partial}{\partial y} & \dfrac{\partial}{\partial z} \\ <br>A_x & A_y & A_z <br>\end{vmatrix} <br>$$"
 
             ]
 
@@ -260,12 +261,19 @@ punctuator:
 
             ]
 
+# cm
+    '/cm': [  termux, linux,
+              pdftk 1.pdf 2.pdf cat output 3.pdf
+
+            ]
+
 # db
     '/db': [  sql, SELECT, TABLE 
 
             ]
 ### -------------------------- Science ---------------------------------------####
 
+# TODO
 ############################# Yuoek ############################################
 
 #符號、電腦
