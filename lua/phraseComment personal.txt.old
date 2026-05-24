@@ -1,0 +1,45 @@
+
+# <!-- mtoc-start -->
+# 
+# * [这个字典用于管理个人/私人信息，以便在共享/分享rime配置时，可以方便的将个人信息进行隔离](#这个字典用于管理个人私人信息以便在共享分享rime配置时可以方便的将个人信息进行隔离)
+# * [常用联系信息](#常用联系信息)
+# * [常用办公信息](#常用办公信息)
+# * [常用链接](#常用链接)
+# * [keymap](#keymap)
+# * [yuoek](#yuoek)
+# * [alias](#alias)
+# * [re](#re)
+# * [todo](#todo)
+# 
+# <!-- mtoc-end -->
+
+# 这个字典用于管理个人/私人信息，以便在共享/分享rime配置时，可以方便的将个人信息进行隔离
+# 常用联系信息
+123456789AB	李四
+123456789AC	王五
+湖南省长春市快乐区开心社区2栋305室	家里
+
+# 常用办公信息
+san.zhang@aibaba.com	办公邮箱
+浙江省杭州市阿里马马集团2号快递收发室	办公收件
+
+# 常用链接
+https://www.myblogs.com	私人博客
+
+# yuoek
+yu&nbspoek	遇光见影，遇你见爱！
+yu	遇光见影
+
+# alias
+rime	nvim&bnsp~/Yuoek/db/rime/
+rimezip	cd&nbsp~/Yuoek/db/rime&nbsp&&&nbspzip&nbsp-r&bnsprime.zip&nbsp*&nbspmv&nbsp~/Yu/db/zip 
+symble	nvim&nbsp~/Yuoek/db/rime/external/data/rime/symble.dict.yaml 
+dict	nvim&nbsp~/Yuoek/db/rime/external/data/rime/lua/phraseExt&nbsppersonal.txt 
+personal	nvim&nbsp~/Yuoek/db/rime/external/data/rime/lua/phraseComment&nbsppersonal.txt 
+help	nvim&nbsp~/Yuoek/db/rime/external/data/rime/lua/help.lua
+
+# re
+%s/^\n//g	清除空行
+%s/^[A-Za-z]*[0-9].*//g	删除含有相应字母数字行
+
+# todo
