@@ -39,4 +39,6 @@ import_tables:
   - yuoek/yuoek
   - yuoek/yuoek_pinyin
   - yuoek/liiany
+  - yuoek/date
+  - yuoek/python
 ...

@@ -1,6 +1,8 @@
 var:
-  last_build_time: 1779628856
+  last_build_time: 1785311274
   previously_selected_schema: wubi_pinyin
   schema_access_time:
-    luna_pinyin: 1768066616
-    wubi_pinyin: 1779628664
+    luna_pinyin: 1785827784
+    luna_pinyin_fluency: 1785251961
+    luna_pinyin_simp: 1786533063
+    wubi_pinyin: 1786533082
